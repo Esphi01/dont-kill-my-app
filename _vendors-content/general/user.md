@@ -1,8 +1,7 @@
----
+Esphie01 
 manufacturer:
     - general
----
-
+fork
 ### Android 6+
 
 Always check the following setting:
